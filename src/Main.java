@@ -94,6 +94,7 @@ var paper = 763789;
 
     System.out.println("Задача № 7");
 
+
     var OstatokDeleniya =SecondBoxer % FirstBoxer ;
 
     System.out.println("остаток от деления между двумя весами " + OstatokDeleniya + "кг");
